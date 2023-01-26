@@ -7,6 +7,15 @@ import arcade
 import math
 import random
 
+"""
+Projects used:
+https://api.arcade.academy/en/latest/examples/sprite_move_keyboard_better.html#sprite-move-keyboard-better
+https://api.arcade.academy/en/latest/examples/dual_stick_shooter.html#dual-stick-shooter
+https://api.arcade.academy/en/latest/examples/sprite_follow_simple_2.html#sprite-follow-simple-2
+https://api.arcade.academy/en/latest/examples/sprite_bullets_aimed.html#sprite-bullets-aimed
+https://api.arcade.academy/en/latest/examples/sprite_bullets_random.html#sprite-bullets-random
+"""
+
 SCREEN_WIDTH = 800
 SCREEN_HEIGHT = 600
 SCREEN_TITLE = "I'm tanking this grade for sure!!!"
